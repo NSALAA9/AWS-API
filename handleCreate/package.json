@@ -1,0 +1,17 @@
+{
+  "name": "handlecreate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest create.test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1422.0",
+    "dynamoose": "^3.2.0",
+    "uuid": "^9.0.0"
+  }
+}
